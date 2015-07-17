@@ -1,0 +1,1 @@
+{"container_id":"3c687d61-b592-4357-81bd-e796d83ec31a","container_name":"test-deploy","widget_name":"test-deploy","widget_id":"81f7cdd7-7622-4017-806d-ded39459e0ae","scripts":{"deploy":[["run","build"]],"setup":["install"]}}
